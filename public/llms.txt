@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצים לקנות או למכור נכס ברעננה והשרון? רונן קלר וויליאמס מציע תיווך נדל״ן מקצועי עם ידע מעמיק בשוק המקומי. צרו קשר עוד היום וקבלו ייעוץ ראשוני ללא עלות!
+
+### שירותים
+https://example.com/services
+ממכירת דירות ועד רכישת נכסים ברעננה והשרון — שירותי התיווך של רונן קלר וויליאמס מותאמים אישית לכל לקוח. גלו כיצד אנו הופכים עסקת נדל״ן למוצלחת ומשתלמת עבורכם.
+
+### אודות
+https://example.com/about
+רונן קלר וויליאמס הוא לא עוד משרד תיווך — אנחנו שותפים אמיתיים לדרך שלכם בנדל״ן. הכירו את הצוות המקצועי שמשלב ניסיון מקומי עמוק עם הכוח הגלובלי של מותג קלר וויליאמס.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על קניית דירה ברעננה או מכירת נכס באזור השרון? צוות רונן קלר וויליאמס כאן בשבילכם — פנו אלינו עכשיו ונשמח לתת מענה מהיר ומקצועי בלי התחייבות.
+
+### Products
+https://example.com/products
+המוצרים שלנו - רונן קלר וויליאמס
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - רונן קלר וויליאמס
+
+### Category
+https://example.com/category/:slug
+מוצרים - רונן קלר וויליאמס
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
